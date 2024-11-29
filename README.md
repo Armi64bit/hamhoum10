@@ -56,7 +56,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img src="https://github.com/hamhoum10/hamhoum10/blob/output/github-snake-dark.svg" alt="snake gif" />
+<img src="https://github.com/Armi64bit/Armi64bit/blob/output/github-snake-dark.svg" alt="snake gif" />
 </div>
 
 <hr/>
